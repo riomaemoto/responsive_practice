@@ -257,7 +257,7 @@ header {
 .widthBox {
 	position: relative;
 	width: 50%;
-	max-width: 623px;
+	max-width: 630px;
 	height: 340px;
 	padding:40px;
 	background-color: white;
@@ -267,7 +267,7 @@ header {
 .widthBox2 {
 	position: relative;
 	width: 50%;
-	max-width: 646px;
+	max-width: 630px;
 	height: 340px;
 	padding:40px;
 	background-color: white;
