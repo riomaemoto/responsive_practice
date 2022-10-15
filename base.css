@@ -90,12 +90,10 @@ h1 span {
 .box{
   width: 100%;
   margin: 0 auto;
-	max-width: 1100px;
+	max-width: 1200px;
 }
 
-.paddingR {
-	padding-right: 20px;
-}
+
 
 
 
@@ -105,18 +103,8 @@ h1 span {
 	width: 100%;
 	margin: 0 auto;
 }
-.wrap2{
-	max-width: 1200px;
-	width: 100%;
-	margin: 0 auto;
-	padding-right: 10px;
-}
-.wrap3{
-	max-width: 1200px;
-	width: 100%;
-	margin: 0 auto;
-	padding-right: 20px;
-}
+
+
 
 .topWrap{
 	display: flex;
@@ -208,7 +196,7 @@ header {
 }
 
 .li_list{
-	padding-right: 20px;
+	padding-left: 20px;
 }
 
 .li_list:hover{
@@ -658,7 +646,7 @@ footer .wrap {
 	}
 
 	.wrap2{
-		
+
 	}
 
 	.hamburger {
